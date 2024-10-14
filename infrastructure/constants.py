@@ -1,0 +1,2 @@
+AWS_ACCOUNT_ID = "861276122286"
+AWS_REGION = "eu-north-1"
